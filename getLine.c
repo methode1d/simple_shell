@@ -3,7 +3,7 @@
 /**
  * input_buf - buffers chained commands
  * @info: parameter struct
- * @buf: address of buffer
+ * @buf: address of buffer winebald
  * @len: address of len var
  *
  * Return: bytes read
@@ -111,7 +111,7 @@ ssize_t read_buf(info_t *info, char *buf, size_t *i)
 
 /**
  * _getline - gets the next line of input from STDIN
- * @info: parameter struct
+ * @info: parameter struct banituze and methode
  * @ptr: address of pointer to buffer, preallocated or NULL
  * @length: size of preallocated ptr buffer if not NULL
  *
