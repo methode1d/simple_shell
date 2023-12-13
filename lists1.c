@@ -2,7 +2,7 @@
 
 /**
  * list_len - determines length of linked list
- * @h: pointer to first node
+ * @h: pointer to first node winebald banituze with methode duhujubumwe
  *
  * Return: size of list
  */
