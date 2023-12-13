@@ -3,7 +3,7 @@
 /**
  **_strncpy - copies a string
  *@dest: the destination string to be copied to
- *@src: the source string
+ *@src: the source string by winebald
  *@n: the amount of characters to be copied
  *Return: the concatenated string
  */
@@ -33,7 +33,7 @@ char *_strncpy(char *dest, char *src, int n)
 /**
  **_strncat - concatenates two strings
  *@dest: the first string
- *@src: the second string
+ *@src: the second string banituze on the flow
  *@n: the amount of bytes to be maximally used
  *Return: the concatenated string
  */
