@@ -3,7 +3,7 @@
 /**
  * _strcpy - copies a string
  * @dest: the destination
- * @src: the source
+ * @src: the source methode and winebald
  *
  * Return: pointer to destination
  */
@@ -24,7 +24,7 @@ char *_strcpy(char *dest, char *src)
 
 /**
  * _strdup - duplicates a string
- * @str: the string to duplicate
+ * @str: the string to duplicate winebald
  *
  * Return: pointer to the duplicated string
  */
@@ -66,7 +66,7 @@ void _puts(char *str)
 
 /**
  * _putchar - writes the character c to stdout
- * @c: The character to print
+ * @c: The character to print methode
  *
  * Return: On success 1.
  * On error, -1 is returned, and errno is set appropriately.
